@@ -4,6 +4,8 @@ A single-page, cinematic "planet hopping" experience. Click the portal to fly fr
 
 Pure HTML/CSS/JS in one file ([index.html](index.html)). No build step, no dependencies.
 
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/ddb2b0d4-98e6-405b-8f8f-ccb83a6e5bb5" />
+
 ## Run
 
 Open `index.html` in a modern browser, or serve the folder:
