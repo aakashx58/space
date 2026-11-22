@@ -39,7 +39,6 @@ The sidebar lists all eight planets, but only Mars, Earth and Venus have content
 
 Edit the `states` object in the `<script>` section of `index.html` to change facts, names, or media URLs. Media URLs are the constants at the top of the script (`MARS_BG`, `TO_EARTH`, etc.).
 
-
 ## Notes
 
 - Responsive down to mobile (the sidebar and nav are hidden on small screens).
